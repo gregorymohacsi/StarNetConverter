@@ -1,0 +1,334 @@
+   
+Station: CH12633L SS Ht: 1.5870
+   
+Measurement:
+  H:  296-46-23 V:   97-34-24 S: 88.6535
+   Name:BR11 CP1
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  329-36- 2 V:   91-57-19 S: 160.0260
+   Name:BR11 CP2
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:   14-12-13 V:   88- 6-21 S: 131.7360
+   Name:BR11 CP3
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  296-46-22 V:   97-34-24 S: 88.6530
+   Name:BR11 CP1
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  329-36- 0 V:   91-57-23 S: 160.0268
+   Name:BR11 CP2
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:   14-12- 8 V:   88- 6-19 S: 131.7378
+   Name:BR11 CP3
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  296-46-20 V:   97-34-22 S: 88.6549
+   Name:BR11 CP1
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  329-36- 2 V:   91-57-21 S: 160.0265
+   Name:BR11 CP2
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:   14-12- 8 V:   88- 6-20 S: 131.7363
+   Name:BR11 CP3
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Station: BR11 CP1 Ht: 1.5430
+   
+Measurement:
+  H:  358-33-50 V:   87- 2-39 S: 98.5242
+   Name:BR11 CP2
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:   51-31- 8 V:   83-59-24 S: 142.2818
+   Name:BR11 CP3
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:   79- 1-21 V:   87-43-34 S: 131.2170
+   Name:BR11 CP4
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  116-46-14 V:   83-55-22 S: 88.3748
+   Name:CH12633L SS
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  358-33-45 V:   87- 2-38 S: 98.5223
+   Name:BR11 CP2
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:   51-31- 8 V:   83-59-23 S: 142.2794
+   Name:BR11 CP3
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:   79- 1-17 V:   87-43-33 S: 131.2166
+   Name:BR11 CP4
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  116-46-14 V:   83-55-25 S: 88.3744
+   Name:CH12633L SS
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  358-33-45 V:   87- 2-39 S: 98.5219
+   Name:BR11 CP2
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:   51-31- 1 V:   83-59-26 S: 142.2792
+   Name:BR11 CP3
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:   79- 1-20 V:   87-43-32 S: 131.2180
+   Name:BR11 CP4
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  116-46-14 V:   83-55-23 S: 88.3735
+   Name:CH12633L SS
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Station: BR11 CP2 Ht: 1.5310
+   
+Measurement:
+  H:  178-33-38 V:   94-16-31 S: 98.6660
+   Name:BR11 CP1
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  178-33-37 V:   94-16-32 S: 98.6641
+   Name:BR11 CP1
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  178-33-32 V:   94-16-31 S: 98.6660
+   Name:BR11 CP1
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  149-36- 7 V:   88-52-27 S: 159.9637
+   Name:CH12633L SS
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  149-36- 6 V:   88-52-26 S: 159.9645
+   Name:CH12633L SS
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  149-36- 8 V:   88-52-31 S: 159.9658
+   Name:CH12633L SS
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  119-13-31 V:   90-22-58 S: 150.3199
+   Name:BR11 CP4
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  119-13-31 V:   90-23- 1 S: 150.3206
+   Name:BR11 CP4
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  119-13-35 V:   90-23- 3 S: 150.3208
+   Name:BR11 CP4
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:   95-12- 2 V:   85-37-57 S: 114.0376
+   Name:BR11 CP3
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:   95-12- 2 V:   85-37-56 S: 114.0394
+   Name:BR11 CP3
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:   95-12- 4 V:   85-37-57 S: 114.0387
+   Name:BR11 CP3
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Station: BR11 CP3 Ht: 1.5200
+   
+Measurement:
+  H:  194-12-22 V:   92-53-50 S: 131.8336
+   Name:CH12633L SS
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  194-12-22 V:   92-53-50 S: 131.8328
+   Name:CH12633L SS
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  194-12-22 V:   92-53-48 S: 131.8330
+   Name:CH12633L SS
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  164- 7-10 V:   99-21-28 S: 66.4722
+   Name:BR11 CP4
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  164- 7- 8 V:   99-21-27 S: 66.4715
+   Name:BR11 CP4
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  164- 7- 8 V:   99-21-29 S: 66.4731
+   Name:BR11 CP4
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  231-31- 4 V:   96-54-55 S: 142.5369
+   Name:BR11 CP1
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  231-31- 7 V:   96-54-53 S: 142.5355
+   Name:BR11 CP1
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  231-31-10 V:   96-54-52 S: 142.5369
+   Name:BR11 CP1
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  275-12- 9 V:   95-29-34 S: 114.2299
+   Name:BR11 CP2
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  275-12- 8 V:   95-29-36 S: 114.2295
+   Name:BR11 CP2
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  275-12- 8 V:   95-29-35 S: 114.2293
+   Name:BR11 CP2
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Station: BR11 CP4 Ht: 1.5080
+   
+Measurement:
+  H:  259- 1-20 V:   93-15-23 S: 131.3244
+   Name:BR11 CP1
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  259- 1-19 V:   93-15-22 S: 131.3243
+   Name:BR11 CP1
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  259- 1-18 V:   93-15-21 S: 131.3238
+   Name:BR11 CP1
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  299-13-23 V:   90-28-15 S: 150.3210
+   Name:BR11 CP2
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  299-13-21 V:   90-28-14 S: 150.3217
+   Name:BR11 CP2
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  299-13-21 V:   90-28-14 S: 150.3219
+   Name:BR11 CP2
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  344- 7- 5 V:   82-32-36 S: 66.1447
+   Name:BR11 CP3
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  344- 7- 0 V:   82-32-37 S: 66.1458
+   Name:BR11 CP3
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   
+Measurement:
+  H:  344- 7- 4 V:   82-32-33 S: 66.1461
+   Name:BR11 CP3
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
